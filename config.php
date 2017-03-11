@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = "bp9rxchpn.mysql.clvrcld.net";
-$dbuser = "ud8jvxa9wwxtycuo";
-$dbpass = "C2AR92OT3P4wrE0ZVWT4";
-$dbname = "bp9rxchpn";
+$dbhost = "b9iiuvuom-mysql.services.clever-cloud.com";
+$dbuser = "uzgqipio57qzxvht";
+$dbpass = "KAVdSNJYGnU9U9VUs2X";
+$dbname = "b9iiuvuom";
 $display_errors = false;
 $disable_admin_panel = false;
 
