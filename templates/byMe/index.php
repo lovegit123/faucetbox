@@ -92,7 +92,9 @@
       </div>
     </div>
     <aside class="flex-item">
-      <div class="ad2"></div>
+      <div class="ad2">
+        <iframe data-aa='453804' src='//ad.a-ads.com/453804?size=300x250' scrolling='no' style='width:300px; height:250px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
+      </div>
       <div class="ad3"></div>
     </aside>
   </section>
